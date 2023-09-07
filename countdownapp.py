@@ -19,5 +19,3 @@ t = input("Please enter the time in seconds: ")
 
 # function call
 countdown(int(t))
-Kimi Omou Koi
-Genkaku Cool na Sensei ga Aheboteochi
